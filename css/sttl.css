@@ -1,0 +1,19 @@
+.body{
+    background-color:#264653 ;  
+}
+h1{
+    color:#EDEDE9 ;
+    font-weight: lighter;
+     margin: bottom 15cm;
+     text-align: center; 
+     margin-top: 6cm;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin: 14cm;
+    margin-top: auto;
+    border-radius: 50%;
+    
+
+}

@@ -1,0 +1,10 @@
+
+ #link_bar a:link { color:#d0d0d0; }
+    #link_bar a:visited { color:#c0c0c0; } 
+    #link_bar a:hover { color:#ffffff;  }
+    #link_bar a:active { color:#f0f0f0; background-color: beige; }
+    .pading {
+      color: #ffffff;
+      margin-right: 5px;
+      margin-left: 5px;
+    }
